@@ -1,0 +1,35 @@
+* C:\Users\LENOVO\eSim-Workspace\esim_2\esim_2.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 05/14/21 20:54:28
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+v2  in2 Earth pulse		
+v1  in1 Earth pulse		
+R1  out1 Earth eSim_R		
+R2  out2 Earth eSim_R		
+R3  out3 Earth eSim_R		
+R4  out4 Earth eSim_R		
+U7  out1 plot_v1		
+U11  out2 plot_v1		
+U8  out3 plot_v1		
+U12  out4 plot_v1		
+U2  in1 plot_v1		
+U3  in2 plot_v1		
+U1  Net-_U1-Pad1_ Net-_U1-Pad2_ Net-_U1-Pad3_ Net-_U1-Pad4_ Net-_U1-Pad5_ Net-_U1-Pad6_ Net-_U1-Pad7_ Net-_U1-Pad8_ Net-_U1-Pad9_ Net-_U1-Pad10_ Net-_U1-Pad11_ graycounter		
+U5  in1 in2 in3 Net-_U1-Pad1_ Net-_U1-Pad2_ Net-_U1-Pad3_ adc_bridge_3		
+U6  Net-_U1-Pad4_ Net-_U1-Pad5_ Net-_U1-Pad6_ Net-_U1-Pad7_ Net-_U1-Pad8_ Net-_U1-Pad9_ Net-_U1-Pad10_ Net-_U1-Pad11_ out1 out2 out3 out4 out5 out6 out7 out8 dac_bridge_8		
+v3  in3 Earth pulse		
+U4  in3 plot_v1		
+R5  out5 Earth eSim_R		
+R6  out6 Earth eSim_R		
+R7  out7 Earth eSim_R		
+R8  out8 Earth eSim_R		
+U9  out5 plot_v1		
+U13  out6 plot_v1		
+U10  out7 plot_v1		
+U14  out8 plot_v1		
+
+.end

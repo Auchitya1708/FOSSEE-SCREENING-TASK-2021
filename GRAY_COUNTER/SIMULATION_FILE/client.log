@@ -1,0 +1,156 @@
+Setup Client Server Connection at Thu May 13 21:34:13 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1132 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Thu May 13 22:17:48 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1152 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Thu May 13 23:33:37 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1144 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Thu May 13 23:58:47 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1160 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Fri May 14 00:06:49 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1132 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Fri May 14 00:13:23 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1140 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1140 & Message sent : clk:0,reset:0,enable:0 
+Setup Client Server Connection at Fri May 14 00:15:16 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 840 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 840 & Message sent : clk:0,reset:0,enable:0 
+Setup Client Server Connection at Fri May 14 12:46:54 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1080 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Fri May 14 12:51:38 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Fri May 14 13:07:43 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1132 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Fri May 14 13:08:19 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1136 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Fri May 14 13:12:11 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1140 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Fri May 14 13:22:09 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1136 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1136 & Message sent : clk:0,reset:0,enable:0 
+Setup Client Server Connection at Fri May 14 13:23:17 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : clk:0,reset:0,enable:0 
+Setup Client Server Connection at Fri May 14 13:59:48 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : clk:0,reset:0,enable:0 
+Setup Client Server Connection at Fri May 14 14:01:23 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 884 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 884 & Message sent : clk:0,reset:0,enable:0 
+Setup Client Server Connection at Fri May 14 14:08:38 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : clk:0,reset:0,enable:0 
+Setup Client Server Connection at Fri May 14 15:46:06 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1096 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Fri May 14 15:51:17 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1136 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Fri May 14 20:59:03 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1128 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1128 & Message sent : clk:0,reset:0,enable:0 
+Setup Client Server Connection at Fri May 14 20:59:19 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1080 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1080 & Message sent : clk:0,reset:0,enable:0 
